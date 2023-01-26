@@ -1,0 +1,15 @@
+.card{
+    border-radius: 35px;
+}
+#image{
+    border-top-left-radius: 35px;
+    border-top-right-radius: 35px;
+}
+#title{
+    color: burlywood;
+    text-align: center;
+    font-size: large;
+}
+#description{
+    text-align: center;
+}
